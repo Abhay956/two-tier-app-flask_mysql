@@ -1,5 +1,5 @@
  
-# Flask App with MySQL Docker Setup
+# Flask App with MySQL Docker compose setup
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
@@ -15,13 +15,13 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Abhay956/two-tier-app-flask_mysql.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd two-tier-app-flask_mysql
    ```
 
 3. Create a `.env` file in the project directory to store your MySQL environment variables:
