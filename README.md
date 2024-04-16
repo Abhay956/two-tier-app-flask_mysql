@@ -51,7 +51,8 @@ Before you begin, make sure you have the following installed:
 
    - Frontend: http://localhost
    - Backend: http://localhost:5000
-
+![image](https://github.com/Abhay956/two-tier-app-flask_mysql/assets/132220412/f457cda9-abd0-4a98-adc9-5772c09b31f6)
+ 
 3. Create the `messages` table in your MySQL database:
 
    - Use a MySQL client or tool (e.g., phpMyAdmin) to execute the following SQL commands:
